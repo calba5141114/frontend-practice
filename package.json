@@ -1,0 +1,25 @@
+{
+  "name": "frontend-practice",
+  "version": "1.0.0",
+  "description": "fun ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calba5141114/frontend-practice.git"
+  },
+  "keywords": [
+    "npm",
+    "fun",
+    "practice",
+    "first"
+  ],
+  "author": "Carlos Alba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calba5141114/frontend-practice/issues"
+  },
+  "homepage": "https://github.com/calba5141114/frontend-practice#readme"
+}
